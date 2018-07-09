@@ -1,0 +1,9 @@
+mkdir Terminal-Practice-Make-Vacation
+mkdir vacation-time
+touch summary.txt
+mkdir photos
+mkdir journal
+mkdir misc
+cd misc
+touch restaurants.csv
+touch main-attractions.csv
